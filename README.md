@@ -8,4 +8,4 @@ This is a maintained and refined fork of **PhiSiFi**.
 
 ### Credits
 All credit for the original work goes to the PhiSiFi project and its contributors.  
-This fork exists to provide an Arabic-friendly, simplified variant.
+This is an Arabic-focused, simplified fork made to support an educational YouTube demonstration of Wi-Fi security concepts. Use only on networks you own or have explicit permission to test.
